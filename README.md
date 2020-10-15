@@ -1,4 +1,10 @@
 # HaviHackathon
+
+Admin Credentials
+--------------------------------
+username:admin
+password:123456
+
 Requirements:
 --------------------------------
 1)Sign Up
